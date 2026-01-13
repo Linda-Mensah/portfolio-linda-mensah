@@ -128,7 +128,7 @@ const Portfolio = () => {
           >
             <div className="absolute -inset-2 bg-linear-to-r from-yellow-500/20 to-transparent rounded-lg blur opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             <span className="relative text-3xl font-bold bg-linear-to-r from-yellow-500 via-yellow-400 to-yellow-300 bg-clip-text text-transparent">
-              LA
+              L.M
             </span>
           </a>
 
@@ -777,11 +777,12 @@ const Portfolio = () => {
               </a>
 
               <a
-                href="tel:+233241185635"
+                href="https://www.linkedin.com/in/lindamensah/"
+                target="_blank"
                 className="group relative px-8 py-4 rounded-xl border border-yellow-500/30 hover:border-yellow-500 transition-colors duration-300 w-full sm:w-auto"
               >
                 <span className="text-yellow-500 group-hover:text-white transition-colors duration-300 font-semibold">
-                  Call Me
+                  Connect with Me
                 </span>
               </a>
             </div>
